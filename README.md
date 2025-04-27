@@ -1,5 +1,15 @@
-## Hi there 👋
+## Hi there! My name is Maria. 👋
+🌱 I’m currently refreshing myself on HTML and CSS before learning Javascript, Vue.js, and Typescript.
 
+🤔 I’m always looking for constructive criticsm and advice on how to improve!
+
+💬 Ask me about my current side quest.
+
+📫 How to reach me: Feel free to shoot me an email (maria.hayden24@gmail.com)!
+
+😄 Pronouns: She/her
+
+⚡ Fun fact: I used to wrangle alpacas and show them at the local 4-H fair.
 <!--
 **maria-hayden/maria-hayden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
